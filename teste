@@ -1,0 +1,265 @@
+Créditos de alguns códigos sweet poison 
+Feito por Tami
+
+html {background-color: #F9CDAD;
+background-repeat: no-repeat; 
+background-attachment: scroll; 
+background-position: top center; 
+background-image: url("none"); 
+border-top: 0px solid #843798g; auto;} 
+body {margin: auto; margin-top: auto; background-color: #F9CDAD; width: 1300px;}
+
+/* ------------ FONTE  E TITULO ------------ */
+p, a, body, td, tr, div {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color:  #83AF9B;
+	font-family: Tahoma;
+	line-height: 11px;
+}
+
+.titulo {text-transform: none; 
+letter-spacing: 3px; 
+font-family: calibri; 
+font-size: 18px; 
+background-color: transparent; 
+text-align: center; 
+color: #83AF9B; 
+font-weight: none; 
+font-style: none; 
+text-transform: lowercase;}
+
+
+.subtitulo {letter-spacing: 0px;
+padding: 5px; 
+font-family: calibri; 
+width: 80px; 
+font-size: 13px; 
+border-radius: 3px; 
+border: 0px solid #FC9D9A; 
+background-color: #F8C59E; 
+color: #83AF9B; 
+font-weight: none; 
+font-style: none; 
+text-transform: none;}
+
+
+
+/*------Links------*/
+
+a img {
+filter:alpha(opacity=65);
+-moz-opacity:0.90;
+opacity:0.80;
+}
+
+a:hover img {
+filter:alpha(opacity=100);
+-moz-opacity:0.90;
+opacity:0.90;
+} 
+
+a:hover img {
+-webkit-filter: grayscale(100%);
+   -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+     -o-filter: grayscale(100%);
+filter: grayscale(100%);
+}
+
+a:link, a:visited {text-decoration: none;
+color: #FE4365;
+font-size: 12px;
+cursor: crosshair;
+text-transform: none; 
+TEXT-DECORATION: none;
+
+}
+
+a:hover {text-decoration: none;
+color: #C8C8A9;
+font-size: 12px;
+cursor: crosshair;
+background-color: transparent;
+text-transform: none;
+TEXT-DECORATION: none;}
+
+/* ---------- Seleçao Colorida --------- */
+
+::-moz-selection {
+color: #C8C8A9;
+background: #F9CDAD;}
+
+::selection {
+color: #C8C8A9;
+background: #F9CDAD;}
+
+
+
+/*------------ ESTILOS ------------ */
+b {	cursor: crosshair;  color: #FE4365; 
+}
+u {	cursor: crosshair;  color: #F8C59E;
+}
+i {	cursor: crosshair;  color: #FC9D9A; 
+}
+s {	cursor: crosshair;  color: #C8C8A9;
+}
+
+/*------------ CAIXAS ------------ */
+.comentarios {
+	font-family: tahoma;
+        text-align: center; 
+	font-size: 12px; 
+        padding: 5px;
+        color: #83AF9B;
+	border: 0px dashed #E69B7A;
+	-moz-border-radius: 0px 0px 0px 0px;
+        background-color: #F8C59E;
+	text-transform: none;
+        width: 450px;
+        }
+
+input, textarea, select  
+{font-family: Tahoma;  
+font-size: 11px; 
+text-align: center;
+line-height:12px;
+padding: 5px;
+color: #83AF9B; 
+border: 2px dasolid #FC9D9A;
+background-color: #F8C59E;
+background-image: url("none");  
+}
+
+.fundopost {
+        color: #83AF9B;
+        background-color: #F8C59E;
+        border: 0px solid #E69B7A;
+	text-align: justify;
+        padding: 3px 3px 3px 3px;
+        width:500px;	
+        -moz-border-radius: 2px 2px 2px 2px;
+        line-height: 13px;
+        font-family: Verdana;
+}
+
+
+
+.table {
+        color: #C8C8A9;
+	font-family: verdana;
+	line-height: 13px;
+	font-size: 11px;
+	border-bottom: 0px dashed #B6826B;
+	background-color: #FE4365;
+	background-image: url("none);
+	padding: 3px;
+        width: 450px;
+	text-align: right;
+}
+
+.by {margin-right: 5px; padding:2px;text-align: center;font-family: verdana;background-color: #FE4365;float:left; width:18%;color:none;}
+}
+
+.table1 {
+        color: #FE4365;
+	font-family: verdana;
+        font-size: 18px;
+	line-height: 13px;
+        border: 0px dashed #CD6839;
+	-moz-border-radius: 3px 3px 3px 3px;
+      	background-color:  #F9CDAD;
+	padding: 1px;
+        width: 78px;
+        line-height: 13px;
+	text-align: right;
+}
+
+/* -- BARRA E FOOTER -- */
+
+#barra { background: #F9CDAD url("none"); 
+width: 81%; 
+ height: auto; 
+font-style: bold; 
+align: center; }
+
+#barra .tubo {background: #F9CDAD url("none"); 
+width: 97%; 
+height: auto; 
+font-style: bold;
+ align: center;
+ text-align: center;  }
+
+#barra .fvbarraf {margin: 0;
+padding:4px;
+height: auto; 
+background: #F9CDAD; 
+ font:11px tahoma; 
+color: #83AF9B; 
+font-style: bold;
+ align: center;
+ text-align: center; }
+
+#barra .fvbarra a:link, #barra .fvbarra a:visited, #barra .fvbarra a:active {text-transform: uppercase;
+font: 10px courier new; 
+color: #FE4365;
+text-decoration: none;
+margin: 2px;
+ align: center;
+ text-align: center;
+padding: 5px 5px 4px 5px;  
+background-color: #C8C8A9; 
+-webkit-transition-duration: 0.8s;
+ -webkit-border-radius: 2px; -
+moz-border-radius: 3px; -o-border-radius: 3px; 
+border-radius: 0px;
+cursor: crosshair; 
+letter-spacing: 2px; 
+font-style: bold;
+ opacity: 0.8; 
+-moz-box-shadow: 0px 0px 0px #1B1B1B; -webkit-box-shadow: 0px 0px 0px #1B1B1B; box-shadow: 0px 0px 0px #1B1B1B; margin: 6px; -webkit-transition: all 0.3s ease-out; 
+-moz-transition: all 0.3s ease-out;} 
+
+#barra .fvbarra a:hover {text-transform: uppercase;
+font: 10px courier new; 
+color: #C8C8A9;
+text-decoration: none;
+margin: 2px;
+ align: center;
+ text-align: center;
+padding: 5px 5px 4px 5px; 
+background-color: #FE4365; 
+-webkit-transition-duration: 0.8s;
+ -webkit-border-radius: 2px; -
+moz-border-radius: 3px; -o-border-radius: 3px; 
+border-radius: 0px;
+cursor: crosshair; 
+letter-spacing: 2px; 
+font-style: bold;
+ opacity: 0.8; 
+-moz-box-shadow: 0px 0px 0px #1B1B1B; -webkit-box-shadow: 0px 0px 0px #1B1B1B; box-shadow: 0px 0px 0px #1B1B1B; margin: 6px; -webkit-transition: all 0.3s ease-out; 
+-moz-transition: all 0.3s ease-out;}
+
+#barra .fvbarra {font: italic 11px tahoma; 
+color: transparent;} 
+#barra .barraimg {opacity: 0;} 0px;text-decoration: none;cursor: pointer; align: center;
+ text-align: center;
+background-image:none;
+padding: 8px;} 
+#barra .fvbarra {font: italic 11px tahoma; color: transparent;} #barra .barraimg {opacity: 0;}
+
+#footer {
+text-transform: uppercase;
+font-family: verdana;
+font-style: bold;
+font-weight: none; 
+font-style: normal; 
+font-size: 10px; 
+text-align: center; 
+padding: 11px; 
+background-color: #F9CDAD; 
+border-btop: 5px solid #83AF9B; 
+margin-top: 10px
+color: #FE4365;}
